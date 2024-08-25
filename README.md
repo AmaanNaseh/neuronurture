@@ -1,7 +1,7 @@
-Deployed Website:
+# Deployed Website:
 https://neuronurture.netlify.app/
 
-Steps to run the project:
+# Steps to run the project:
 
 1. Clone the repository : git clone https://github.com/AmaanNaseh/neuronurture.git
 2. Navigate to project folder : cd neuronurture or neuronurture_main
