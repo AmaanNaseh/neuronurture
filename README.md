@@ -13,6 +13,7 @@ https://neuronurture.netlify.app/
 Dataset: https://www.kaggle.com/competitions/autismdiagnosis/data
 Model Code: https://colab.research.google.com/drive/1ydRSmuXeym4NjqrUZKRHqlvCmZNtRtlQ?usp=sharing
 
-### TechStack: ReactJs, NodeJs, Python and Machine Learning (Scikit-learn)
+# TechStack: 
+### ReactJs, NodeJs, Python and Machine Learning (Scikit-learn)
 ![Neuronurture_Techstack](https://github.com/user-attachments/assets/b76a5251-0237-4eba-819c-3084c9fc5e92)
  
