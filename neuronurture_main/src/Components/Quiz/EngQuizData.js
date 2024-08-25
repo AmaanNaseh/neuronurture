@@ -1,0 +1,42 @@
+export const EngQuizData = [
+  {
+    question: "What is the focus of the video?",
+    option1: "Pronunciation of English words",
+    option2: "English grammar rules",
+    option3: 'Homophones "Aisle" and "I\'ll"',
+    option4: "English literature",
+    ans: 3,
+  },
+  {
+    question: "Which homophones are explained in the video?",
+    option1: "Two and Too",
+    option2: "Aisle and I'll",
+    option3: "There and Their",
+    option4: "Your and You're",
+    ans: 2,
+  },
+  {
+    question: "What day does the teacher plan to release more lessons?",
+    option1: "Friday",
+    option2: "Monday",
+    option3: "Saturday",
+    option4: "Wednesday",
+    ans: 4,
+  },
+  {
+    question: "What should viewers do after watching the video?",
+    option1: "Subscribe and like",
+    option2: "Comment and share",
+    option3: "Download the video",
+    option4: "Dislike",
+    ans: 1,
+  },
+  {
+    question: "Who is the teacher in the video?",
+    option1: "John English",
+    option2: "Sarah English",
+    option3: "Anna English",
+    option4: "Mike English",
+    ans: 3,
+  },
+];
