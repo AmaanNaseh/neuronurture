@@ -1,7 +1,7 @@
 Steps to run the project:
 
 1. Clone the repository : git clone https://github.com/AmaanNaseh/neuronurture.git
-2. Navigate to project folder : cd neuronurture
+2. Navigate to project folder : cd neuronurture or neuronurture_main
 3. Install dependencies : terminal -- npm install
 4. Run the app : npm run start
 
