@@ -1,3 +1,6 @@
+Deployed Website:
+https://neuronurture.netlify.app/
+
 Steps to run the project:
 
 1. Clone the repository : git clone https://github.com/AmaanNaseh/neuronurture.git
